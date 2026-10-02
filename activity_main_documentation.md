@@ -1,6 +1,6 @@
 # 📄 Layout Documentation: `activity_main.xml`
 
-## 📌 File Summary
+## File Summary
 - **File Name**: `activity_main.xml`
 - **Path**: `app/src/main/res/layout/activity_main.xml`
 - **Purpose**: Defines the Homepage UI for the Learning Contract application.
@@ -10,7 +10,7 @@
 
 ---
 
-## 📐 1. Architectural View Hierarchy
+## 1. Architectural View Hierarchy
 
 ```text
 ScrollView (Vertical Scroll Container)
@@ -46,7 +46,7 @@ ScrollView (Vertical Scroll Container)
 
 ---
 
-## 🛠️ 2. Detailed Breakdown of XML Components & Attributes
+## 2. Detailed Breakdown of XML Components & Attributes
 
 ### A. Document Header & Namespaces
 ```xml
