@@ -219,7 +219,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Instructor Signature & Name: Sir Venn Edward Nicolas"
+                    android:text="Instructor Signature and Name: Sir Venn Edward Nicolas"
                     android:textSize="14sp"
                     android:textStyle="italic"
                     android:textColor="#333333"
