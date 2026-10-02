@@ -126,7 +126,7 @@ ScrollView (Vertical Scroll Container)
 
 ---
 
-## 🎨 3. Section Content Breakdown
+## 3. Section Content Breakdown
 
 ### Section 1: Title & Header
 - **Component ID**: `tvContractTitle`, `tvGroupInfo`, `tvCourseInfo`
