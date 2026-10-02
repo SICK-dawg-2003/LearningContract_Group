@@ -1,8 +1,8 @@
-# 📜 Learning Contract Application — Group UniSync
+# Learning Contract Application — Group UniSync
 
 An Android application built in Kotlin showcasing the **Learning Contract** for **Mobile Application Development (CC17)**.
 
-## 📌 Group Information
+## Group Information
 - **Group Name**: UniSync
 - **Course**: Mobile Application Development (CC17)
 - **Instructor**: Sir Venn Edward Nicolas
@@ -16,7 +16,7 @@ An Android application built in Kotlin showcasing the **Learning Contract** for 
 
 ---
 
-## 📱 App Features & Sections
+## App Features & Sections
 The application presents 6 core sections styled inside clean Material CardView containers:
 
 1. **Title Section**: Contract title, course information, and group header.
@@ -28,7 +28,7 @@ The application presents 6 core sections styled inside clean Material CardView c
 
 ---
 
-## 🛠️ Tech Stack & Requirements
+## Tech Stack & Requirements
 - **Language**: Kotlin 2.2.10
 - **UI Framework**: Android XML Layouts (`ScrollView`, `LinearLayout`, `CardView`, `TextView`)
 - **Gradle Version**: 8.7
@@ -37,7 +37,7 @@ The application presents 6 core sections styled inside clean Material CardView c
 
 ---
 
-## 🚀 How to Run the App
+## How to Run the App
 1. Open Android Studio.
 2. Select **File ➔ Open** and select the project folder.
 3. Allow Gradle to sync dependencies.
