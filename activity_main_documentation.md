@@ -133,7 +133,7 @@ ScrollView (Vertical Scroll Container)
 - **Text Content**:
   - Title: *"Learning Contract"* (`22sp`, **bold**)
   - Subtitle: *"Groupwork # 1"* (`25sp`)
-  - Course Info: *"Course: Mobile App Development | Date: Feb 2026"* (`14sp`)
+  - Course Info: *"Course: Mobile App Development | Date: Oct 2026"* (`14sp`)
 
 ### Section 2: Expectations
 - **Heading**: *"Expectations"* (`18sp`, **bold**)
